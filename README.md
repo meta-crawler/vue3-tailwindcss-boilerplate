@@ -1,8 +1,10 @@
-# vue3-boilerplate
+# Vue3 + Tailwind CSS Boilerplate
 
-A Vue 3 Starter Boilerplate with Vue Router 4, Vuex 4, Typescript 4, Webpack 5, Prettier and More.
+A Vue 3 Starter Boilerplate with Tailwind CSS, Vue Router 4, Vuex 4, Typescript 4, Webpack 5, Prettier and More.
 
 **And not using the Vue CLI.**
+
+![Vue3 + Tailwind CSS Boilerplate](./2020-11-16-232725_596x413_scrot.png)
 
 ## Architecture
 

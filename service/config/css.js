@@ -18,7 +18,7 @@ const genStyleRules = () => {
     loader: 'postcss-loader',
     options: {
       postcssOptions: {
-        plugins: [require('autoprefixer')],
+        plugins: [require('tailwindcss'), require('autoprefixer')],
       },
     },
   }
